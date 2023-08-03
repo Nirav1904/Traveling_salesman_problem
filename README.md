@@ -1,2 +1,2 @@
 # Traveling_salesman_problem
-Artificial intelligence  ..Traveling salesmen problem
+Artificial intelligence  .. learn Traveling salesmen problem
